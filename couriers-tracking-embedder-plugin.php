@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Couriers Tracking Embedder Plugin
  * Plugin URI:        https://huzaifairfan.com/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Form and Tracking Website Embedder Shortcode Plugin
  * Version:           1.0.0
  * Author:            Huzaifa Irfan
  * Author URI:        https://huzaifairfan.com/
